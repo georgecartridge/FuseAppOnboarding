@@ -2,7 +2,7 @@
 //  FuseAppOnboardingApp.swift
 //  FuseAppOnboarding
 //
-//  Created by George on 27/10/2025.
+//  Created by George on 04/11/2025.
 //
 
 import SwiftUI
