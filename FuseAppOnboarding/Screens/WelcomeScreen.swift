@@ -65,7 +65,7 @@ struct WelcomeScreen: View {
 #Preview {
     WelcomeScreen(
         title: "A demo,\nupgraded",
-        description: "Save, earn and invest\nwith stablecons and digital assets",
+        description: "Save, earn, and invest\nwith stablecoins and digital assets",
         logo: "logo",
         carousel: [
             .init(text: "Pay", image: "pay"),
